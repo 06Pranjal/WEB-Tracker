@@ -1,0 +1,14 @@
+{
+  "name": "socket-io-leaflet-app",
+  "version": "1.0.0",
+  "description": "A basic app using Express, Socket.IO, and Leaflet",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.17.3",
+    "socket.io": "^4.7.5"
+  }
+}
